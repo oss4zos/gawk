@@ -1,2 +1,2 @@
-# awk
+# gawk
 GNU awk
